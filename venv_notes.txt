@@ -1,0 +1,10 @@
+// go to py3.8+ folder
+// cd C:\Users\jesfung\AppData\Local\Programs\Python\Python39
+// python --version -> to use the 3.9
+
+cd C:\Users\jesfung\Documents\Training\Solidity\PythonVENV\Scripts
+activate
+
+
+cd C:\Users\jesfung\Documents\Training\Solidity\Web3_py_simple_storage
+python deploy.py
